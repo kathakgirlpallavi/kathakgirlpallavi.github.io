@@ -61,6 +61,14 @@ img {  vertical-align: middle; }
 	color: #5F5;
 }
 
+.maroon {
+    color: #cc0000;
+}
+
+.pink {
+    color: #990099;
+}
+
 #preloader {
     position: fixed;
     top: 0;
